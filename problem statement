@@ -1,0 +1,14 @@
+PROBLEM STATEMENT
+The primary challenge in analyzing permanently shadowed regions (PSRs) on the Moon lies
+in the quality of the imaging data. Due to the absence of sunlight, PSRs receive minimal
+illumination, leading to images that are dark, noisy, and lack sufficient contrast. These
+conditions make it difficult to distinguish surface features or identify critical resources such
+as water ice. Chandrayaan-2, while equipped with advanced instruments, faces inherent
+limitations in capturing detailed and clear images of these regions, leaving a gap between the
+raw data collected and the actionable insights needed for scientific research and exploration.
+Additionally, the traditional methods of image processing often fall short in addressing the
+unique challenges posed by PSR data. Standard enhancement techniques may inadvertently
+amplify noise or fail to bring out subtle features hidden in the shadowed terrains. The absence
+of a tailored approach for PSR imaging hinders the ability to extract meaningful information,
+which is crucial for understanding lunar geology, identifying resource deposits, and planning
+future missions.
